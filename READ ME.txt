@@ -1,0 +1,6 @@
+Crias um array (lista, o que quiseres chamar xD) com duas dimensões (matriz) para usares estas funções (que vais criar):
+- Retornar as dimensoes dessa matriz
+- Retornar o calculo da media dos valores de uma linha
+- Retornar o calculo da media dos valores de uma coluna
+- Retornar o cálculo da multiplicação de todos os valores da matriz>
+- Retornar os valores das diagonais da matriz (para matrized quadradas)
